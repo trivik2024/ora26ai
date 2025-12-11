@@ -13,7 +13,7 @@
 
 
 
-### 1. **Oracle_26ai_Complete_Practice_Guide.md** (15,000+ words)
+### 1. **Oracle_26ai_Complete_Practice_Guide.md** 
 **Primary Training Manual with Performance Tuning**
 
 #### Sections:
@@ -45,7 +45,7 @@
 
 ---
 
-### 2. **Oracle_26ai_Trainee_Lab_Script.sql** (2,000+ lines)
+### 2. **Oracle_26ai_Trainee_Lab_Script.sql** 
 **Hands-On Laboratory Exercises for Classroom & Self-Study**
 
 #### Lab Structure:
@@ -80,7 +80,7 @@ After completing these labs, trainees will be able to:
 
 ---
 
-### 3. **Oracle_23ai_vs_26ai_Detailed_Comparison.md** (8,000+ words)
+### 3. **Oracle_23ai_vs_26ai_Detailed_Comparison.md** 
 **Feature-by-Feature Comparison with Migration Guide**
 
 #### Coverage:
